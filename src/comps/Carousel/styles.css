@@ -1,0 +1,41 @@
+#root {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  /* background: #eee; */
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper-container {
+  margin: 110px 0;
+  width: 100%;
+  height: 30%;
+}
+
+
+.sponsors {
+  text-align: center;
+  margin-top: 25vh;
+  font-size: 48px;
+}
+
+.sponsors-p {
+  font-weight: 600;
+}
+
+@media screen and (max-width: 480px) {
+  .sponsors {
+    font-size: 30px;
+    height: 55vh !important;
+  }
+}

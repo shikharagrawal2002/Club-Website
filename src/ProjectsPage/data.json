@@ -1,0 +1,34 @@
+{
+    "Projects":[
+        {
+            "id":"1",
+            "img":"https://cdn.discordapp.com/attachments/944525259401490482/955876743825203220/Vault.jpeg",
+            "Name":"Vault App",
+            "Description":"Vault is an application which is made exclusively to store files for free and can access them easily whenever needed.Vault is a app similar to google drive which gives you the storage of 516 MB .Here you can store files like images and pdf as in for now. You can STORE and VIEW your files here. The app supports upload files feature with preview of documents and images and also download feature of all files. It also has a favourites option thorugh which people can choose there favourite files can view them in a different page. There are other featurees like updating profile, deleting profile and many more."
+        },
+        {
+            "id":"2",
+            "img":"https://cdn.discordapp.com/attachments/944525259401490482/955876742990553148/BreakTech.jpeg",
+            "Name":"BreakTech",
+            "Description":"BreakTech is a Daily News Discord Bot which provides the user with timely technical news on a daily basis along with some addon features. At present, this is the v1.0 of the bot which provides the user with 24hr/per hr technical news be it of any category. When the bot is invited to any server, it creates two channels - one user specific(breaktech) and one bot specific(24hour). In the 24hour channel, the bot provides techincal news and happenings 24/7 with new news every hour whereas in the breaktech channel the user can ask the bot for a news anytime of the day."
+        },
+        {
+            "id":"3",
+            "img":"https://cdn.discordapp.com/attachments/944525259401490482/955884355224477746/Wittrade.jpeg",
+            "Name":"Wittrade",
+            "Description":"Wittrade is an application which is made exclusively for college students to sell, rent and buy things from other students. Any student who wants to sell something can simply post an ad by following some simple steps and a student buyer who is in need of the same thing can purchase it by contacting the seller through our app. Our app would become the point of contact between the buyer and seller."
+        },
+        {
+            "id":"4",
+            "img":"https://cdn.discordapp.com/attachments/944525259401490482/955876743225409597/Genie.jpeg",
+            "Name":"Genie",
+            "Description":"Genie is a discord bot which aims to solve programming related doubts and issues. With Genie, one can get the documentation of any topic, answers to their questions and suggestions to get rid of any bugs from the available list of languages. Genie can get your doubts cleared from a vast set of languages like C, C++, Java, Python to name a few."
+        },
+        {
+            "id":"5",
+            "img":"https://cdn.discordapp.com/attachments/944525259401490482/955876743636484166/TruthFinder.jpeg",
+            "Name":"The Truth Finder",
+            "Description":"The Truth Finder App is made for the sole purpose of checking that how factualty correct the news link submitted in the app is. The basic aim of this project is to help people understand that whether there is a chance that the news article that they are reading online is portraying the truth or not. This simple application will help the users from assuming the wrong information."
+        }
+    ]
+}

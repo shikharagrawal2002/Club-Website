@@ -1,0 +1,24 @@
+{
+    "Events" : [
+        {
+            "poster": "https://i.imgur.com/L9eGIZO.png",
+            "title" : "#W3B UNLOCKED",
+            "description" : "Experience the revolution - Web3 getting unlocked right on your screen by a special Blockchain Developer who has worked on various use-cases in this domain, Kedar Kshatriya.Kedar has won various National & International Hackathons like ETHIndia and ETHOnline Hackathon. He was part of Michigan State University's Blockchain Summer School as a Mentor."
+        },
+        {
+            "poster": "https://i.imgur.com/MCxpZym.png",
+            "title" : "Da Vinci Code",
+            "description" : "Get ready to bring out your inner Jake Peraltas and Amy Santiagos, to solve through a series of challenging and interesting puzzles, debug your way through the codes and ace your algorithms in the latest event DA VINCI CODE of GCC. So, put your Sherlock hat on because this time you will need all the help to unmask the culprit."
+        },
+        {
+            "poster": "https://i.imgur.com/81rUUP0.png",
+            "title" : "Pirates Of The CODEBBEAN",
+            "description" : "Not all treasure is silver and gold mate! If you have the desire to cruise through a technical treasure hunt, get on board because GCC SRM has got you covered. Show your coding prowess to the world and win exciting prizes and gifts. Put your cleverness, tricks and coding knowledge to test in this amazing adventure. Show us who you Arrrg!"
+        },
+        {
+            "poster": "https://i.imgur.com/TkFDXdy.png",
+            "title" : "Symposium",
+            "description" : "Be it storing and accessing your projects on a go or working on a project with other developers, GitHub makes a developer's life lot easier. So if you are someone who is not aware of what GitHub is and how it works or if you want to explore GitHub a little more, then this workshop is just the one for you. GCC at SRM presents Symposium 1.1, a technical workshop on Git and GitHub, to help you get the best out of your coding skills."
+        }
+    ]
+}

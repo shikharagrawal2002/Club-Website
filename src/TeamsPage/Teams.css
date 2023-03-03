@@ -1,0 +1,273 @@
+body{
+  overflow-x: hidden;
+}
+.nav-container {
+  height: 200px;
+}
+.TeamLeads {
+  margin-bottom: 10px;
+}
+.AssociateLeads {
+  margin-bottom: 10px;
+}
+.DomainLeads{
+  margin: 140px 0 50px 0;
+}
+.Teams {
+  text-align: center;
+}
+.Members {
+  text-align: center;
+}
+
+.Teams h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.titleTeam {
+  letter-spacing: 0.7em;
+  font-size: calc(100% + 1vw + 1vh);
+}
+.footer h1{
+text-align: center;
+}
+.footer a {
+  text-decoration: none !important;
+  background-color: transparent;
+}
+.footer i {
+  width: 10px;
+  height: auto;
+}
+.footer a:hover {
+  text-decoration: none !important;
+
+  background-color: transparent;
+}
+
+/* TeamLeads and Doamin LEADS CSS */
+.Core-Card {
+  height: 30vh;
+  width: 30vh;
+}
+
+.Core-Card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  text-align: center;
+  
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+.Core-Card-front {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.Core-Card-front {
+  background-color: transparent;
+  color: black;
+  border-radius: 50%;
+}
+
+.Core-Card-front img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.icon {
+  margin: 1vh;
+}
+
+.footer h1 {
+  font-size: 20px;
+  margin: 20px 0 0 0;
+  font-weight: 900;
+}
+
+.footer p {
+  font-size: 15.2px;
+  margin-bottom: 0;
+  font-weight: 600;
+}
+
+/* MEMBERS CSS */
+.Member-Card {
+  border-radius: 50%;
+  width: 20vh;
+}
+
+.Member-Card .Member-Card-inner img {
+  width: 20vh;
+  height: 20vh;
+  border-radius: 50%;
+  background: transparent;
+  
+}
+
+.Member-Card-inner {
+  position: relative;
+}
+
+.Member-Card-desc {
+  text-align: center;
+  width: 22vh;
+}
+
+.Member-Card-desc .footer p {
+  display: flex;
+  font-size: 13px;
+  justify-content: center;
+  align-items: center;
+  
+  font-weight: 600;
+}
+
+.Member-Card-desc .footer h1 {
+  font-size: 17px;
+  color: black;
+  margin-top: 20px;
+}
+
+
+/*associate leads*/
+.Associate-Card {
+  height: 25vh;
+  width: 25vh;
+}
+
+.Associate-Card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  text-align: center;
+  
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+.Associate-Card-front {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.Associate-Card-front {
+  background-color: transparent;
+  color: black;
+  border-radius: 50%;
+}
+
+.Associate-Card-front img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.Associate-Card .footer p {
+  display: flex;
+  font-size: 15.2px;
+  justify-content: center;
+  align-items: center;
+  width: 9rem;
+  font-weight: 600;
+}
+
+.Associate-Card .footer h1 {
+  font-size: 17px;
+  color: black;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+  .titleTeam {
+    letter-spacing: 0.5em;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 30px !important;
+  }
+
+  .Member-Card {
+    display: inline-block;
+    margin-left: 0 !important;
+  }
+
+  .Core-Card {
+    height: 30vh;
+    width: 30vh;
+    margin-left: 0;
+    margin-bottom: 10vh;
+  }
+  .heading {
+    display: none;
+  }
+}
+.membermargin {
+  padding: 0 70px;
+}
+
+@media only screen and (max-width: 600px) {
+  .Core-Card,.Associate-Card {
+    width: 75%;
+    margin-bottom: 15vh;
+    height: 25vh;
+    width: 25vh;
+  }
+  .Member-Card {
+    padding-left: 20px;
+  }
+  .Member-Card-desc .footer h1 {
+    font-size: 20px;
+  }
+
+  .Member-Card-desc .footer p {
+    font-size: 15px;
+  }
+
+  .Member-Card-desc .footer .icon {
+    width: 4vh;
+  }
+  .mobileteam {
+    padding-left: 18px;
+  }
+  .titleTeam {
+    padding-left: 10px;
+  }
+  .Member-Card {
+    margin-left: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  .membermargin {
+    padding-right: 70px !important;
+    margin: 0 auto;
+  }
+  .row{
+    margin-right: 0 !important;
+  }
+  .DomainLeads{
+    margin:0;
+    margin-top:10px;
+  }
+  .AssociateLeads{
+    margin:0;
+    margin-top:10px;
+  }
+}
+
+
+
+.heading {
+  margin: 100px auto;
+  text-align: center;
+}
+
+.footer{
+  text-align: center;
+}

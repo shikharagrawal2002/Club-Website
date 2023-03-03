@@ -1,0 +1,209 @@
+.contents:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  border-left: 7px solid rgba(255, 21, 71, 0.81);
+  height: 83.15%;
+  top: 30px;
+  left: 50%;
+}
+
+.contents {
+  position: relative;
+}
+
+.domains {
+  text-align: center;
+}
+
+.row p,
+.row-2 p {
+  font-size: 16.5px;
+
+  width: 20vw;
+  height: auto;
+  margin: 0 auto;
+}
+
+.domains .heading {
+  font-style: normal;
+  font-size: 48px;
+  margin: 12% 0;
+  font-weight: 600;
+}
+
+.nav {
+  height: 200px;
+}
+
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+  text-align: center;
+  font-weight: 500;
+}
+
+.domain {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.domain h1 {
+  letter-spacing: -0.075em;
+}
+
+.AfterText::before {
+  content: "";
+  position: absolute;
+  border-top: 3px solid black;
+  width: 100px;
+  top: 7.5%;
+  right: -5px;
+  z-index: -10;
+}
+
+.BeforeText::after {
+  content: "";
+  position: absolute;
+  border-top: 3px solid black;
+  width: 100px;
+  top: 5%;
+  left: 4px;
+  z-index: -10;
+}
+
+.domain .row,
+.row-2 {
+  margin-top: 90px;
+  align-items: right;
+}
+
+.lottie {
+  height: 400px;
+  width: 500px;
+  margin: 0 auto;
+}
+.lottiecontainer {
+  margin: 0 auto;
+}
+
+.circle-right::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  right: 8%;
+  top: 5%;
+  background: #ffb7b7;
+  z-index: -1;
+}
+
+.circle-left::before {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  left: 9%;
+  top: 3%;
+  background: #ffb7b7;
+  z-index: -1;
+}
+
+@media (max-width: 768px) and (min-width: 600px) {
+  .contents:before {
+    top: 17px;
+    height: 84.6%;
+  }
+
+  .BeforeText::after {
+    width: 40px;
+    top: 18px;
+  }
+
+  .AfterText::before {
+    right: 0px;
+    width: 40px;
+    top: 18px;
+  }
+
+  .circle-right::after {
+    right: 25px;
+    top: 10px;
+  }
+
+  .circle-left::before {
+    left: 35px;
+    top: 10px;
+  }
+
+  .row p,
+  .row-2 p {
+    font-size: 25px;
+  }
+  .domains .heading {
+    font-size: 38px;
+  }
+  .text-left,
+  .text-right {
+    text-align: left !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .AfterText::before,
+  .BeforeText::after {
+    display: none;
+  }
+  .domains .heading {
+    font-size: 38px;
+    margin: 24% 0;
+  }
+
+  .contents:before {
+    border-left: 7px solid rgba(255, 21, 71, 0.81);
+    height: 83%;
+    top: 15px;
+    left: 1%;
+  }
+
+  .circle-left::before {
+    left: -2px;
+    top: 7px;
+  }
+
+  .circle-right::after {
+    left: -2px;
+    top: -2px;
+  }
+  .row p,
+  .row-2 p {
+    font-size: 15px;
+  }
+
+  .row {
+    display: block;
+  }
+
+  .row-2 {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .row p,
+  .row-2 p {
+    font-size: 16.5px;
+    /* font-weight: 100; */
+    width: 70vw;
+    height: auto;
+    margin: 0 auto;
+  }
+  .lottie {
+    height: 300px;
+    width: 350px;
+    margin: 0 auto;
+  }
+  .text-left,
+  .text-right {
+    text-align: left !important;
+  }
+}

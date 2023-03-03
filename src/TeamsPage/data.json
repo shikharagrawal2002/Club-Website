@@ -1,0 +1,840 @@
+{
+  "Directors": [
+    {
+      "Name": "Karan Bengani",
+      "Domain": "DIRECTOR",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592655885680640/download_-_KARAN_BENGANI_RA1911032010049.png",
+      "LinkedIn": "https://www.linkedin.com/in/karan-bengani/",
+      "Github": "https://github.com/KaranBengani",
+      "Instagram": "https://www.instagram.com/karanbengani_/",
+      "id": "3",
+      "gif": ""
+    },
+    {
+      "Name": "Aditya Naman Chaturvedi",
+      "Domain": "DIRECTOR",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593520293978142/IMG-20190311-WA0001_-_Aditya_Naman.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/aditya-naman-chaturvedi-0029571a4/",
+      "Github": "",
+      "Instagram": "https://www.instagram.com/adityanaman123/",
+      "id": "4",
+      "gif": ""
+    },
+    {
+      "Name": "Vishvak Bhatt",
+      "Domain": "DIRECTOR",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593660652175411/Passport_Photo_-_Vishvak_Bhatt_RA1911028010053.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/vishvak-bhatt-89551118b/",
+      "Github": "",
+      "Instagram": "",
+      "id": "5",
+      "gif": ""
+    },
+    {
+      "Name": "Sanjukta Sen",
+      "Domain": "Content Director",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/953329824632545423/1XLjJ6LlH6JYE9lhSic1oKhPSAzBIFIvrs220.png",
+      "LinkedIn": "https://www.linkedin.com/in/sanjukta-sen-092b1419b",
+      "Instagram": "https://instagram.com/sanjukta_30?utm_medium=copy_link",
+      "id": "94",
+      "gif": ""
+    },
+    {
+      "Name": "Udgam Aggarwal",
+      "Domain": "Sponsorship Director",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/953329865376006154/IMG_20210129_224148_334_-_Udgam_Aggarwal.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/udgam-aggarwal-8662021b5",
+      "Instagram": "https://instagram.com/udgamaggarwal_",
+      "id": "95",
+      "gif": ""
+    }
+  ],
+  "TeamLeads": [
+    {
+      "Name": "Sumrit Grover",
+      "Domain": "Team Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/965668293883072552/profile_image.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/sumrit-grover/",
+      "Github": "https://github.com/smgrv123",
+      "Instagram": "https://www.instagram.com/sm.grv",
+      "id": "1",
+      "gif": ""
+    },
+    {
+      "Name": "Swapnil Roop Rai",
+      "Domain": "Team Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944607227673731142/SWAPNIL_PHOTO_-_SWAPNIL_RAI_RA2011003010155.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/swapnil-rai-37a003232/",
+      "Github": "github.com/Swapnil06012003",
+      "Instagram": "",
+      "id": "2",
+      "gif": ""
+    }
+  ],
+  "DomainLeads": [
+    {
+      "Name": "Aditya Jain",
+      "Domain": "Creatives Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594149947088916/WhatsApp_Image_2021-05-03_at_10.22.48_-_Aditya_Jain.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/aditya-jain-aj1711/",
+      "Instagram": "https://www.instagram.com/ohadityeah/",
+      "id": "6",
+      "gif": ""
+    },
+    {
+      "Name": "Harsh Srivastava",
+      "Domain": "Techincal Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/965669098811965501/WhatsApp_Image_2022-04-18_at_11.13.52_PM.jpeg",
+      "Github": "https://github.com/harshsrivastava1705/",
+      "Instagram": "https://www.instagram.com/zeus.08._/",
+      "id": "8",
+      "gif": ""
+    },
+    {
+      "Name": "Prakhar Nagpal",
+      "Domain": "Technical Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593983961718824/PXL_20220106_042638233.PORTRAIT-1_-_Prakhar_Nagpal.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/prakhar-nagpal-304838168/",
+      "Github": "https://github.com/PrakharNagpal/",
+      "Instagram": "https://www.instagram.com/nagpal_prakhar/",
+      "id": "9",
+      "gif": ""
+    },
+    {
+      "Name": "Simran Shrivastava",
+      "Domain": "Marketing Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594150416842772/WhatsApp_Image_2021-11-03_at_00.07.01_-_SIMRAN_SHRIVASTAVA_RA2011030010073.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/simran-shrivastava-5448a81b7",
+      "Github": "https://github.com/simran-2501",
+      "Instagram": "https://www.instagram.com/_simrann_shrivastava_?r=nametag",
+      "id": "10",
+      "gif": ""
+    },
+    {
+      "Name": "Ayush Bharti",
+      "Domain": "Sponsorship Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593104479092746/dsf_-_AYUSH_BHARTI_RA2011003010330.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/ayush-bharti-b2888020b/",
+      "Github": "",
+      "Instagram": "https://www.instagram.com/ayushbharti700/",
+      "id": "11"
+    },
+    {
+      "Name": "Swapnil Roop Rai",
+      "Domain": "Content Lead",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944607227673731142/SWAPNIL_PHOTO_-_SWAPNIL_RAI_RA2011003010155.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/swapnil-rai-37a003232/",
+      "Github": "github.com/Swapnil06012003",
+      "Instagram": "",
+      "id": "1",
+      "gif": ""
+    }
+  ],
+
+  "Members": [
+    {
+      "Name": "Bhavya Upadhyay",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944591876533653554/20211104_193651_-_Bhavay_Upadhyay.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/bhavyaupadhyay",
+      "Github": "https://github.com/bhavay2001",
+      "Instagram": "https://www.instagram.com/bhavayupadhyay/",
+      "id": "12"
+    },
+    {
+      "Name": "PRASTUTI SANDILYA SARMA",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/947498725155160154/Snapchat-236705473_-_PRASTUTI_SARMA_RA2011003010164.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/prastuti-sandilya-38080620b",
+      "Github": "https://github.com/Prastuti06",
+      "Instagram": "https://www.instagram.com/_prassandy_/",
+      "id": "13"
+    },
+    {
+      "Name": "Riya Agarwal",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593287518511164/IMG_20210905_173300_-_Riya_Agarwal.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/riya-agarwal-013046225",
+      "Github": "https://github.com/riya6858",
+      "Instagram": "https://instagram.com/riyaagarwal176?utm_medium=copy_link",
+      "id": "14"
+    },
+    {
+      "Name": "JERAEMIUS SHANNON J",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944830719220404244/WhatsApp_Image_2022-02-19_at_11.41.22_PM.jpg",
+      "LinkedIn": "www.linkedin.com/in/jeraemius-shannon-j-7b2522187",
+      "Github": "https://github.com/jeraemiusshannonj",
+      "Instagram": "https://www.instagram.com/__.jerooo.__/",
+      "id": "15"
+    },
+    {
+      "Name": "Mirza Safeer Ahmad",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593186171523172/img_-_safeer_ahmad.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/safeer-ahmad-740954179/",
+      "Github": "https://github.com/safeerahmad809",
+      "id": "16"
+    },
+    {
+      "Name": "Rohith Saxena",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593521007001620/IMG-20211104-WA0122_1_-_rohith_saxena.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/rohithsaxena/",
+      "Github": "https://github.com/IRohithSaxenaI",
+      "Instagram": "https://www.instagram.com/rohith.saxena/",
+      "id": "17"
+    },
+    {
+      "Name": "Chaitanya Shrivastava",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592656363823144/dp_-_CHAITANYA_SHRIVASTAVA.png",
+      "LinkedIn": " https://www.linkedin.com/in/chaitanya-shrivastava/",
+      "Github": "https://github.com/cs-cse",
+      "id": "18"
+    },
+    {
+      "Name": "B ABHISRI ",
+      "Domain": "Content, Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592458312986664/Abhisri_photo_-_Abhisri_Balaji.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/abhisri-b-abb773215",
+      "Instagram": "http://instagram.com/abhisri._",
+      "id": "19"
+    },
+    {
+      "Name": "Krapansh Shrivastava",
+      "Domain": "Content | Sponsorship",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944591877359956058/1635267945090_-_KRAPANSH_SHRIVASTAVA_RA2111028010138.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/krapansh-shrivastava-68b6b4212/",
+      "Github": "https://github.com/krapansh",
+      "Instagram": "https://www.instagram.com/kripsss.___/",
+      "id": "20"
+    },
+    {
+      "Name": "Saksham Bhandari",
+      "Domain": "Creatives",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944591876147802162/42644_1_-_Saksham_Bhandari.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/saksham-bhandari-26707b211/",
+      "Github": "https://github.com/SakshamBhandari01",
+      "Instagram": "https://www.instagram.com/sakshammb/",
+      "id": "21"
+    },
+    {
+      "Name": "Alipriya Pal",
+      "Domain": "Creatives",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592576252624896/B612_20211017_204128_180_-_Alipriya_Pal.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/alipriya-pal-923087210",
+      "Instagram": "https://www.alipriya002",
+      "id": "22"
+    },
+    {
+      "Name": "Srawsta Saha",
+      "Domain": "Creatives",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594148772704297/Srawsta_-_Srawsta_Saha.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/srawstasaha/",
+      "Github": "https://github.com/srawstasaha",
+      "Instagram": "https://www.instagram.com/srawsta/",
+      "id": "23"
+    },
+    {
+      "Name": "Karthik Panicker",
+      "Domain": "Creatives",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/947493629981769748/pp_-_Karthik_Panicker.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/karthik-panicker-282092209/",
+      "Github": "https://github.com/ZERO34802",
+      "id": "24"
+    },
+    {
+      "Name": "Annie jain",
+      "Domain": "Creatives",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593288189607966/IMG_20211208_000730_-_ANNIE_JAIN_RA1911003010302.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/annie-jain-80267218b",
+      "Github": "https://github.com/Annie-jain",
+      "Instagram": "https://www.instagram.com/_ann.yyyy/",
+      "id": "25"
+    },
+    {
+      "Name": "Sharon Sujitha A",
+      "Domain": "Creatives",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593831687503872/Profic_Picture_-_SHARON_SUJITHA_A_RA1911026010124.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/s-s-35238a200/",
+      "Github": "https://github.com/shazz7",
+      "Instagram": "https://www.instagram.com/sharon_2210_/?hl=en",
+      "id": "26"
+    },
+    {
+      "Name": "Tanmay Arora ",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594059845046292/Screenshot_20220213-094343_Drive_-_Tanmay_Arora.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/tanmay-arora-a0890218b",
+      "Instagram": "https://instagram.com/tanmayarora10?utm_medium=copy_link",
+      "id": "27"
+    },
+    {
+      "Name": "ABHISHEK KUMAR ",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592458082287616/ABHISHEK_KUMAR_-_ABHISHEK_KUMAR_RA2011003010456.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/abhishek-kumar-8b72a51bb",
+      "Instagram": "https://instagram.com/_abhishek_yaduvansh_?utm_medium=copy_link",
+      "id": "28"
+    },
+    {
+      "Name": "YEDLA RAHUL REDDY",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593985446486066/rahul_-_Rahul_Reddy.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/yedla-rahul-reddy-4b17121ba/",
+      "id": "29"
+    },
+    {
+      "Name": "sparsh kumar",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944591451445141514/1_-_SPARSH_KUMAR_RA2011003010446.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/sparsh-kumar-67396a20b",
+      "Instagram": "https://instagram.com/sparsh72001?utm_medium=copy_link",
+      "id": "30"
+    },
+    {
+      "Name": "Nishant Singh ",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594060155432970/Screenshot_20220213-111116_Telegram_-_Nishant_Singh.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/nishant-singh-13896920b",
+      "Github": "https://github.com/NishantSingh1002",
+      "Instagram": "https://www.instagram.com/nishant_2608/",
+      "id": "31"
+    },
+    {
+      "Name": "Vaasavi Chunduru",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593521627787294/IMG-20211220-WA0013_-_Vaasavi_Chunduru.jpg",
+      "LinkedIn": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://in.linkedin.com/in/vaasavi-chunduru-62893b171&ved=2ahUKEwjL1I3VtP71AhUHrYsKHQkUAUsQjjh6BAgGEAE&sqi=2&usg=AOvVaw05N3iZ2qQqj3Gza-iYWL9T",
+      "Instagram": "https://www.instagram.com/vaasavi_chunduru/",
+      "id": "32"
+    },
+    {
+      "Name": "S.SURYA PRAKASH",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593289640837200/IMG_20220214_110555_-_S.Surya_Prakash.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/s-surya-prakash-65a28b200",
+      "Instagram": "https://instagram.com/_surya.24_?utm_medium=copy_link",
+      "id": "33"
+    },
+    {
+      "Name": "Shristi",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593519421575208/IMG_20220214_155248_-_Shristi.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/shristi-614a501b8",
+      "Github": "https://github.com/SHRISTI-web",
+      "Instagram": "https://www.instagram.com/shristi_52/",
+      "id": "34"
+    },
+    {
+      "Name": "SAHIL SUNILKUMAR",
+      "Domain": "Sponsorship",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594058989420604/SAHIL_IMG_-_SAHIL_SUNILKUMAR_RA2011037010011.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/sahil-sunilkumar-911b6a1ba/",
+      "Instagram": "https://www.instagram.com/sahil_ssk810/",
+      "id": "35"
+    },
+    {
+      "Name": "Siddharth Dutta",
+      "Domain": "Sponsorship",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594148298735636/sid_2020_formal_-_Siddharth_Dutta.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/siddharth-dutta-4197541b7/",
+      "Github": "https://github.com/SiddharthD13",
+      "Instagram": "https://www.instagram.com/alternative_sid/",
+      "id": "36"
+    },
+    {
+      "Name": "Suraj Tirumani",
+      "Domain": "Sponsorship",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593660459229214/passport_photo_-_TIRUMANI_SURAJ_RA2011026010266.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/suraj-tirumani-1944ba224/",
+      "id": "37"
+    },
+    {
+      "Name": "M Sai Shabarish ",
+      "Domain": "Sponsorship | Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593658697625650/IMG20210103165145_-_Madikeri_sai_shabarish.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/sai-shabarish-madikeri-2075971b9",
+      "Github": "https://github.com/SaiShabarish18",
+      "Instagram": "https://instagram.com/shabarish718?utm_medium=copy_link",
+      "id": "38"
+    },
+    {
+      "Name": "Srishti Sinha",
+      "Domain": "Sponsorship | Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593660157255750/pass_photo_-_SRISHTI_SINHA_RA2011026010169.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/srishti-sinha-5721091bb",
+      "Github": "https://github.com/19srishti",
+      "Instagram": "https://www.instagram.com/19_srishti/",
+      "id": "39"
+    },
+    {
+      "Name": "Kritika Singh",
+      "Domain": "Sponsorship | Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592657722785842/dsa_-_Kritika_Singh.jpeg",
+      "LinkedIn": "www.linkedin.com/in/kritika-singh-587b3b20b",
+      "Github": "-",
+      "Instagram": "https://instagram.com/ks_21_01?utm_medium=copy_link",
+      "id": "40"
+    },
+    {
+      "Name": "Manveer Singh Malhi",
+      "Domain": "Sponsorship | Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594208654774312/WhatsApp_Image_2022-02-13_at_10.43.27_PM_-_Manveer_Malhi.jpeg",
+      "LinkedIn": "www.linkedin.com/in/manveer-singh-malhi",
+      "Github": "https://github.com/manveer28",
+      "Instagram": "https://www.instagram.com/manveer__28/",
+      "id": "41"
+    },
+    {
+      "Name": "Samarth Dhawan",
+      "Domain": "Sponsorship | Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592576516857896/black_-_SAMARTH_DHAWAN_RA2011003010234.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/samarth-dhawan-a317821aa/",
+      "Github": "https://github.com/samarth2812",
+      "Instagram": "https://www.instagram.com/samarthite/",
+      "id": "42"
+    },
+    {
+      "Name": "Shivam Singh Rathore",
+      "Domain": "Sponsorship | Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593519786471424/IMG_20220214_194500_-_SHIVAM_SINGH_RATHORE.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/shivam-singh-rathore-5b95661bb",
+      "id": "43"
+    },
+    {
+      "Name": "Chetas Shree Madhusudhan",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592576709799976/Chetas_Shree.M_-_CHETAS_SHREE_MADHUSUDHAN_RA2011003011120.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/chetasshree/",
+      "Github": "https://github.com/ChetasShree",
+      "Instagram": "https://www.instagram.com/chetas_shree/",
+      "id": "44"
+    },
+    {
+      "Name": "Thejaswin S",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593830039138384/photo_-_Thejaswin_S_RA1911026010029.png",
+      "LinkedIn": "https://www.linkedin.com/in/thejaswin-s-22252318b/",
+      "Github": "https://github.com/thejaswin123",
+      "Instagram": "https://www.instagram.com/theja60/",
+      "id": "45"
+    },
+    {
+      "Name": "Pratyusha Routh",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593659494551592/MyImg_-_Pratyusha_Routh.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/pratyusha-routh-3016a3200/",
+      "Github": "https://github.com/pratyusha2001",
+      "Instagram": "https://www.instagram.com/pratyusha.routh/",
+      "id": "46"
+    },
+    {
+      "Name": "Routhu Manoj Sitaram ",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593521267052584/IMG-20211219-WA0132_-_Manoj_Routhu.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/manoj-routhu",
+      "Github": "https://github.com/Manoj-Routhu",
+      "Instagram": "https://www.instagram.com/manoj_routhu/",
+      "id": "47"
+    },
+    {
+      "Name": "Vasa Chandana",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593186624512040/IMG_7815_-_chandana_Vasa.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/chandana-vasa-210503178",
+      "Github": "https://github.com/chandana444",
+      "Instagram": "https://www.instagram.com/chandana_vasa/",
+      "id": "48"
+    },
+    {
+      "Name": "ALURU LEELA RANI",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592458686296084/ALURU_LEELA_RANI_-_Leela_Rani_Aluru.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/leela-rani-aluru-a56021203",
+      "Github": "https://github.com/LEELARANIALURU",
+      "id": "49"
+    },
+    {
+      "Name": "Aksh Sood",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/947493629671403520/me_proffesional.jpg_-_Aksh_Sood.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/aksh-sood-115ab418b/",
+      "Github": "https://github.com/aksh-sood",
+      "Instagram": "https://instagram.com/aksh._.sood?utm_medium=copy_link",
+      "id": "50"
+    },
+    {
+      "Name": "Pratyusha mandal ",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593104915296286/F59684C9-1C41-49F4-B34B-91EA08C2E4FF_-_Pratyusha_Mandal.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/pratyusha-mandal-99b389200",
+      "Github": "https://github.com/pratyx",
+      "Instagram": "https://instagram.com/_p.r.a.t.y.u.s.h.a_?r=nametag",
+      "id": "51"
+    },
+    {
+      "Name": "HARDIK KHANDELWAL",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593105158549614/Hardik_Khandelwal_-_HARDIK_KHANDELWAL_RA2011003010227.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/hardik-khandelwal-b0396820b/",
+      "Github": "https://github.com/hardik-kh",
+      "Instagram": "https://www.instagram.com/hardik.kh/",
+      "id": "52"
+    },
+    {
+      "Name": "Pradipta Nandi",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593661260357642/Photo_-_Pradipta_Nandi.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/pradipta-nandi-aa2245188",
+      "Github": "https://github.com/ProMinato500/",
+      "id": "53"
+    },
+    {
+      "Name": "Dhruv Limbani",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594150614007898/WhatsApp_Image_2022-02-13_at_1.16.32_PM_-_DHRUV_LIMBANI_RA2011027010068.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/dhruvlimbani/",
+      "Github": "https://github.com/Dhruv-Limbani",
+      "id": "54"
+    },
+    {
+      "Name": "Aryan Chaudhary",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593288504164392/IMG_20220213_162629_-_ARYAN_CHAUDHARY_RA2111026010077.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/aryan-chaudhary-b95138210",
+      "Github": "https://github.com/Aryan8203",
+      "Instagram": "https://www.instagram.com/_aryan.1211/",
+      "id": "55"
+    },
+    {
+      "Name": "Naman Singhal",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593660987732028/Photo_-_Naman_singhal_RA1911003010174.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/naman-singhal-876099190/",
+      "Github": "https://github.com/Naman4925",
+      "id": "56"
+    },
+    {
+      "Name": "ANKIT DAS",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592575829004288/ankit_-_ANKIT_DAS_RA1911031010150.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/ankitdas2000/",
+      "Github": "https://github.com/ELY00",
+      "Instagram": "https://www.instagram.com/_._._.ankit._._._/",
+      "id": "57"
+    },
+    {
+      "Name": "Akshata Verma",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593288835498014/IMG_20220213_175009_-_Akshata_verma.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/akshata-verma-28b34a1b1",
+      "Github": "https://github.com/AkshataVerma",
+      "Instagram": "https://www.instagram.com/invites/contact/?i=188qnjansgcf4&utm_content=i8fwci5",
+      "id": "58"
+    },
+    {
+      "Name": "NIKHIL TAPARIA",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593520734388244/IMG-20210206-WA0041_-_mahavir_taparia.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/nikhil-taparia",
+      "Github": "https://github.com/taparia11/",
+      "Instagram": "https://www.instagram.com/unique_niki",
+      "id": "59"
+    },
+    {
+      "Name": "Ritika Saxena",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593831003840563/Picture3_copy_-_RITIKA_SAXENA_RA2011003010450.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/ritika-saxena-7721b21b4/",
+      "Github": "https://github.com/Ritika091",
+      "Instagram": "https://www.instagram.com/ritika_ss09/",
+      "id": "60"
+    },
+    {
+      "Name": "Shivain Kohli",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944591451772321792/5D252B43-BA7A-495F-A9A6-BDF2F07AFEE7_-_SHIVAIN_KOHLI_RA2111003011460.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/shivainkohli",
+      "Github": "https://www.github.com/shivainkohli",
+      "Instagram": "https://www.instagram.com/shivainkohli",
+      "id": "61"
+    },
+    {
+      "Name": "Tanmay Sharma",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944591452229496853/501FB1F9-06FC-4C0C-971E-9B318DC211CE_-_Tanmay_Sharma.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/tanmay-sharma-36663716b",
+      "Github": "https://github.com/tanmaysharma015",
+      "Instagram": "https://instagram.com/_neowise__?utm_medium=copy_link",
+      "id": "62"
+    },
+    {
+      "Name": "Ritika Gupta",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593830517309450/picm_-_Ritika_Gupta.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/ritika-gupta-b50a1919a/",
+      "id": "63"
+    },
+    {
+      "Name": "Saurav kumar",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594058410594304/received_447454910167772_-_Saurav_Kumar.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/saurav-kumar-4b1779188",
+      "Github": "https://github.com/microsaurav",
+      "id": "64"
+    },
+    {
+      "Name": "Aditya swarup",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593289070399528/IMG_20220213_214313_-_ADITYA_SWARUP_RA2111003010698.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/aditya-swarup-17aa95213",
+      "Github": "https://github.com/Aditya-swarup",
+      "Instagram": "https://www.instagram.com/invites/contact/?i=1x9njp843pg5j&utm_content=mu08i6n",
+      "id": "65"
+    },
+    {
+      "Name": "Darshil Kantariya",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593289368182814/IMG_20220213_214444_-_DARSHIL_NAVNEETBHAI_RA2011042010084.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/darshil-kantariya-006387226",
+      "Github": "https://github.com/darshilkantaria11",
+      "Instagram": "https://www.instagram.com/darshil__kantariya__/",
+      "id": "66"
+    },
+    {
+      "Name": "Brijesh Kumar Soni",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593520520491038/IMG-20200109-WA0001_-_BRIJESH_SONI_RA2011003010458.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/brijesh-soni-8bb84620b",
+      "Github": "https://github.com/brije5h",
+      "Instagram": "https://www.instagram.com/_brijesh_soni__",
+      "id": "67"
+    },
+    {
+      "Name": "Harikrishnaa S",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593105414410310/hari_photo_-_Harikrishnaa_Sundarrajan_RA1911026010012.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/hk3112/",
+      "Github": "https://github.com/Harikrishnaa3131",
+      "Instagram": "https://www.instagram.com/harikrishnaa31/?hl=en",
+      "id": "68"
+    },
+    {
+      "Name": "Nitesh Gupta",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593659821686804/Nitesh_-_Nitesh_Gupta.png",
+      "LinkedIn": "https://www.linkedin.com/in/nitesh-gupta-4a7115217",
+      "Github": "https://github.com/Nitesh544",
+      "Instagram": " http://instagram.com/nitesh_uchiha/",
+      "id": "69"
+    },
+    {
+      "Name": "Saptorshee Nag",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593187505332314/IMG_20210902_195308_433_-_Saptorshee_Nag.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/saptorshee-nag-588294220",
+      "Github": "https://github.com/SaptorsheeNag",
+      "Instagram": "https://www.instagram.com/saptorshee_official/",
+      "id": "70"
+    },
+    {
+      "Name": "Varun Deshpande",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594149737386024/varunimg_-_Varun_Deshpande.JPG",
+      "LinkedIn": "https://www.linkedin.com/in/varun-deshpande-57950b18b/",
+      "Github": "https://github.com/VarunDeshpande1",
+      "Instagram": "https://www.instagram.com/be_like_salt/",
+      "id": "71"
+    },
+    {
+      "Name": "Abhinav Karforma",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593831947538492/Profile_Photo_1_-_Abhinav_Karforma.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/abhinav-karforma-04218619a/",
+      "Github": "https://github.com/Abhinav0909",
+      "Instagram": "https://www.instagram.com/abhinavkarforma/",
+      "id": "72"
+    },
+    {
+      "Name": "Tauqeer Ali",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594149288591360/Tauqeer_image_-_Tauqeer_Ali.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/tauqeerali/",
+      "Github": "https://github.com/tauqeerali1",
+      "Instagram": "https://www.instagram.com/___tauqeer_ali___/",
+      "id": "73"
+    },
+    {
+      "Name": "Riya S",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594209191624774/whitesheet_-_Riya_S.png",
+      "LinkedIn": "https://www.linkedin.com/in/riya-s-803135226/",
+      "Github": "https://github.com/Rrs-4817",
+      "id": "74"
+    },
+    {
+      "Name": "Dhruv Deshmukh",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593104701362236/Dummy_-_DHRUV_DESHMUKH_RA2111028010125.png",
+      "LinkedIn": "www.linkedin.com/in/dhruv-deshmukh-8b6229220",
+      "id": "75"
+    },
+    {
+      "Name": "Shikhar Agrawal",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594060969148496/Shikhar_Agrawal_-_Shikhar_Agrawal.png",
+      "LinkedIn": "https://www.linkedin.com/in/shikhar-agrawal19/",
+      "Github": "https://github.com/shikharagrawal2002",
+      "Instagram": "https://www.instagram.com/showrockerman19/",
+      "id": "76"
+    },
+    {
+      "Name": "Shubhankur Mechu",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593831410663454/pps_-_Shubhankur_mechu_RA1911003010299.jpeg",
+      "LinkedIn": "www.linkedin.com/in/shubhankurmechu",
+      "Github": "https://github.com/shubh2421",
+      "Instagram": "https://www.instagram.com/its.shubh10/",
+      "id": "77"
+    },
+    {
+      "Name": "SHASHANK SINGH",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594059215921172/Screenshot_2022-02-14-21-11-13-73_254de13a4bc8758c9908fff1f73e3725_-_Shashank_Singh.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/shashank-singh-bb55561b8",
+      "Github": "https://github.com/shashanksingh2002",
+      "Instagram": "https://www.instagram.com/___s_h_a_z_a_m___/",
+      "id": "78"
+    },
+    {
+      "Name": "Goutam Bhargava",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593520063283240/IMG_20220214_214329_-_Goutam_Bhargava_RA1911003010123.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/goutam-bhargava-666078190",
+      "Github": "https://github.com/bhargav41",
+      "Instagram": "https://www.instagram.com/bhargav_41",
+      "id": "79"
+    },
+    {
+      "Name": "Param Deshpande",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593289913434132/IMG_20220214_124051_397_-_PARAM_DESHPANDE_RA2011003010245.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/param-deshpande-683b61211",
+      "Github": "https://github.com/altair32",
+      "Instagram": "https://www.instagram.com/altair_4/?hl=en",
+      "id": "80"
+    },
+    {
+      "Name": "Aakriti Rawat",
+      "Domain": "Technical | Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592457734176818/Aakriti_Rawat_-_AAKRITI_RAWAT_RA2011033010103.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/aakriti-rawat-1954bb1b8/",
+      "Github": "https://github.com/Aakrit1",
+      "Instagram": "https://www.instagram.com/aak.riti/",
+      "id": "81"
+    },
+    {
+      "Name": "Charvy Gugalia",
+      "Domain": "Technical | Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593659033157682/me_-_charvy_gugalia.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/charvygugalia/",
+      "id": "82"
+    },
+    {
+      "Name": "Swarga Raj Dutta",
+      "Domain": "Technical | Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594058679046164/resize2_-_SWARGA_DUTTA_RA2011003010449.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/swarga-raj-dutta-15b15920a/",
+      "Github": "https://github.com/Swarga-codes",
+      "Instagram": "https://www.instagram.com/ig_m4rkus/",
+      "id": "83"
+    },
+    {
+      "Name": "Divit Kumar",
+      "Domain": "Technical | Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944592656846172180/dp1_-_Divit_Kumar_RA1911003010620.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/divitkumar/",
+      "Github": "https://github.com/divitkumar",
+      "Instagram": "https://www.instagram.com/divitkumar16/",
+      "id": "84"
+    },
+    {
+      "Name": "Stuti Jain",
+      "Domain": "Technical | Creatives",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594060394524712/Screenshot_20220214-185659__01_-_Stuti_Jain.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/stuti-jain-6602a11bb",
+      "Instagram": "https://www.instagram.com/stuti_721/",
+      "id": "85"
+    },
+    {
+      "Name": "M Ram Prakash Reddy",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593187010412584/IMG_20190810_1101567crop_-_Ram_Prakash.png",
+      "LinkedIn": "https://www.linkedin.com/in/ram1612/",
+      "id": "86"
+    },
+    {
+      "Name": "Priyal Chugh",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944591877141839872/1629788447437_-_priyal_chugh.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/priyal-chugh-3229ba203/",
+      "Github": "https://github.com/priyal6",
+      "Instagram": "https://www.instagram.com/prriyall/",
+      "id": "87"
+    },
+    {
+      "Name": "Aryaman Shrivastava",
+      "Domain": "Technical",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593832161456128/profs_-_Aryaman_Shrivastava.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/aryaman-shrivastava-07/",
+      "Github": "https://github.com/aryamanshrivastava",
+      "Instagram": "https://www.instagram.com/arryaman_/",
+      "id": "88"
+    },
+    {
+      "Name": "SIDDHARTHA DHAR",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593521858457650/IMG-20220101-WA0072_-_Siddhartha_Dhar.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/siddhartha-dhar-443b961b6",
+      "Github": "github.com/beingsiddharthadhar",
+      "Instagram": "https://www.instagram.com/beingsiddharthadhar",
+      "id": "89"
+    },
+    {
+      "Name": "Sarthak Sethi",
+      "Domain": "Marketing",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944594208906424340/WhatsApp_Image_2022-02-15_at_10.40.22_PM_1_-_Sarthak_Sethi.jpeg",
+      "LinkedIn": "https://www.linkedin.com/in/sarthaksethi12/",
+      "Github": "https://github.com/sarthaksethi12",
+      "Instagram": "https://www.instagram.com/sarthak_sethi12/",
+      "id": "90"
+    },
+    {
+      "Name": "Priyanka Srinivas",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593830743777380/Picture_-_Priyanka_Srinivas_RA1911026010014.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/priyanka-srinivas-/",
+      "Github": "https://github.com/ps4449",
+      "id": "91"
+    },
+    {
+      "Name": "Arohi Sood",
+      "Domain": "Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/947496849038798868/Screenshot_20220215-233129_Gallery_-_Arohi_Sood.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/arohi-sood-43a9ab1ba",
+      "Github": "https://github.com/ArohiSood",
+      "Instagram": "https://instagram.com/arohi.sood?utm_medium=copy_link",
+      "id": "92"
+    },
+    {
+      "Name": "Omkareshwar Rai",
+      "Domain": "Creatives | Content",
+      "Photo": "https://cdn.discordapp.com/attachments/944525259401490482/944593830265647155/photo6080341581715582854_-_OMKARESHWAR_RAI.jpg",
+      "LinkedIn": "https://www.linkedin.com/in/omkareshwar-rai-08aaba193",
+      "Instagram": "https://www.instagram.com/s_r_tist",
+      "id": "93"
+    }
+  ]
+}
